@@ -1,0 +1,8 @@
+# connect to database
+
+# get events from specified source file
+
+# get probability for events
+
+# for event in events
+  # insert probability into meta -> probability -> mlv1

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/helle246/code/repos/mac_ml_pilot/deliverable/two_dimensional_classifier/fullout/weights/cvd_model.ckpt"
+all_model_checkpoint_paths: "/home/helle246/code/repos/mac_ml_pilot/deliverable/two_dimensional_classifier/fullout/weights/cvd_model.ckpt"
